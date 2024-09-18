@@ -34,6 +34,6 @@
 
 ##
 
-- 🌱 I’m currently learning Laravel 11 
+- 🌱 I’m currently learning Laravel 11, Vue.js, Inertia.js and TailwindCSS.
 
 ##
