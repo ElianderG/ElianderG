@@ -6,15 +6,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ElianderG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElianderG&show_icons=true&theme=tokyonight&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianderG&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center" style="display: inline_block"><br>
