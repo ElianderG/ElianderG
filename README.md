@@ -1,38 +1,54 @@
-## Hi there 👋 Nice to meet you! I'm Eliander
+## Hi 👋 I'm Eliander Gomes
 
-💻 **Web Developer** | Laravel • PHP • SQL • Docker  
-📍 Brazil  
-🚀 Always learning and building practical solutions
+💻 **Backend / Web Developer**  
+🚀 Focused on building practical, maintainable and scalable web systems  
+📍 Brazil
 
 ---
 
-### 🛠️ Tech Stack
+### 👨‍💻 About me
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="35" />
-</div>
+I'm a Web Developer with hands-on experience building and maintaining real-world applications.
+
+My main focus is **backend development with Laravel**, working with:
+- RESTful APIs
+- SQL databases
+- Business rules and data integrity
+- System maintenance and improvements
+
+I enjoy understanding how systems work internally, fixing bugs, improving performance and writing clean, structured code.
+
+---
+
+### 🛠️ Main Tech Stack
+
+- **Backend:** Laravel, PHP  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Frontend:** JavaScript, jQuery, Tailwind CSS, Bootstrap  
+- **DevOps / Tools:** Docker, Git, Postman  
+- **Architecture:** MVC, REST APIs  
+
+---
+
+### 📌 What you’ll find here
+
+On my GitHub, you’ll find:
+- Backend-focused projects
+- Laravel APIs and system prototypes
+- Experiments with databases and integrations
+- Study projects focused on real use cases
+
+(Some repositories are simplified versions of real-world problems I’ve worked on.)
 
 ---
 
 ### 📫 Let's connect
 
-<div align="center"><br>
-  <a href="https://www.instagram.com/eliandergomes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/eliander-gomes-da-silveira-a1a957161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:eliandergomes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/eliander-gomes-da-silveira-a1a957161/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
