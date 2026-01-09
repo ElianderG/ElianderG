@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Eliander Gomes
 
-💻 **Backend / Web Developer**  
+💻 **Fullstack / Web Developer**  
 🚀 Focused on building practical, maintainable and scalable web systems  
 📍 Brazil
 
@@ -33,7 +33,7 @@ I enjoy understanding how systems work internally, fixing bugs, improving perfor
 ### 📌 What you’ll find here
 
 On my GitHub, you’ll find:
-- Backend-focused projects
+- Fullstack projects
 - Laravel APIs and system prototypes
 - Experiments with databases and integrations
 - Study projects focused on real use cases
